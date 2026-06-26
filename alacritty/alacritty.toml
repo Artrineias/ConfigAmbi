@@ -1,0 +1,6 @@
+[window]
+# Inicia o terminal em tela cheia
+startup_mode = "Fullscreen"
+
+# Define a transparência do fundo (0.0 é totalmente transparente, 1.0 é opaco)
+opacity = 0.65
